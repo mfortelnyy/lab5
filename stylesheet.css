@@ -2,17 +2,21 @@
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 0px;
+}
+.nasa
+{
+	background-image: url("images/nasa.png");
+	background-size: 120px;
+	height: 100px;
+	width: 100px;
 	
 }
 
-td {
 
+td {
     text-align:center;
     border:2px solid yellow;
     padding:5px
-	
-	
-	
 }
 
 table {
@@ -22,6 +26,8 @@ table {
   border-collapse: collapse;
   bottom: 0px;
 }
+
+
 #venus{
 	width: 100px;
 	height: 100px;
@@ -42,14 +48,8 @@ table {
 	width: 110px;
 	height: 110px;
 }
-.nasa
-{
-	background-image: url("images/nasa.png");
-	background-size: 120px;
-	height: 100px;
-	width: 100px;
-	
-}
+
+
 table tr
 {
 	height: 60px;
