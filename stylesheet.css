@@ -52,7 +52,7 @@ table {
 
 table tr
 {
-	height: 60px;
+	height: 60px;/* could be done in next 2 functions*/
 }
 table tr:nth-child(even)
 {
